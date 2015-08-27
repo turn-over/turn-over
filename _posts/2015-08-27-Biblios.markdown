@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Biblios"
+date:   2015-08-29 20:30:00
+img: /assets/img/biblios.jpeg
+categories: Familial
+tags: Cartes
+author: krazymins
+---
+Excellent petit jeu. Convient tout à fait pour un début de soirée avec une petite partie tranquille pour mettre en appétit avant un jeu plus costaud. Il convient également tout à fait pour jouer dans la voiture ou emmener partout avec soi en vacances. Attention, ce jeu n'est pas juste un jeu fun et pratique. Il y a une grosse composante bluff et avec des joueurs qui s'y prêtent, on passe un très bon moment. Comme le poker : facile et fun en apparence, on se rend compte de l'aspect "psychologique" que plus tard...
+
+Pas de tergiversations ici sur le thème du jeu qui, à mon sens, n'apporte pratiquement rien au jeu en lui-même.
+Le jeu est divisé en deux phases : La distribution des cartes puis l'achat des cartes aux enchères.
+La distribution des cartes se fait de la manière suivante : à son tour de jeu, on tire N cartes (n = nombre de joueurs + 1). Les cartes tirées le sont les unes après les autres et non simultanément. On doit tirer une carte puis la distribuer puis tirer une autre carte etc. On distribue au choix de cette façon : l'une des cartes est pour soi, une autre carte est placée dans la pile des enchères (qui servira en 2ème phase), les autres cartes en place publique (à récupérer à la fin du tour par les autres joueurs qui choisissent leur carte).
+On peut donc amèrement regretter ses choix ... C'est là qu'arrive le bluff.
+Il faut également tenter au maximum de se souvenir des cartes données en place publique aux autres joueurs et aux enchères....
+
+
+Les enchères... parlons en !
+Les enchères constituent la deuxième phase du jeu. Les cartes de la pile des Enchères sont tirées puis vendues une par une.
+Pour acheter les cartes aux enchères, on utilise les cartes obtenues en première phase.
+Il y a 3 types de cartes : les cartes de couleur, les cartes "Argent", et les cartes actions.
+On achète des cartes actions et des cartes de couleur avec des cartes "Argent". Les cartes "Argent" font office de monnaie ("Elémentaire mon cher Albert!"). Ici pas de jetons, seulement des cartes.
+Des cartes "Argent" peuvent être dans la pile des enchères : On achète les cartes "Argent" avec les cartes de couleur. L'enchère se joue sur le nombre de cartes de couleur qu'on est prêt à donner.
+Un petit plateau avec 5 couleurs et 5 dés de couleur est fourni. Les cartes actions servent à augmenter ou diminuer la valeur des dés.
+Quand toutes les cartes Enchères ont été vendues, on attribue les dés aux joueurs suivants les cartes restantes dans leur main : un maximum de points dans une couleur donnée rapporte le dé de la même couleur.
+Le gagnant est celui qui a le plus haut cumul de points de dés.
+
+Tout est affaire de pif, de bluff, de compromis, et de regret ("Ah non.. j'aurais pas du !") ce qui en fait un jeu vraiment fun, agréable, rapide et simple.
+
+Qui plus est le matériel est magnifique : les illustrations sont très jolies, la boîte est solide et bien faite. Les règles sont concises et bien écrites.
+
+Faites-vous ce petit plaisir, l'apéro vous remerciera.
