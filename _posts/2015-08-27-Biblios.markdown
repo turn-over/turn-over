@@ -20,13 +20,13 @@ Les enchères... parlons en !
 Les enchères constituent la deuxième phase du jeu. Les cartes de la pile des Enchères sont tirées puis vendues une par une.
 Pour acheter les cartes aux enchères, on utilise les cartes obtenues en première phase.
 Il y a 3 types de cartes : les cartes de couleur, les cartes "Argent", et les cartes actions.
-On achète des cartes actions et des cartes de couleur avec des cartes "Argent". Les cartes "Argent" font office de monnaie ("Elémentaire mon cher Albert!"). Ici pas de jetons, seulement des cartes.
+On achète des cartes actions et des cartes de couleur avec des cartes "Argent". Les cartes "Argent" font office de monnaie (*"Elémentaire mon cher Albert!"*). Ici pas de jetons, seulement des cartes.
 Des cartes "Argent" peuvent être dans la pile des enchères : On achète les cartes "Argent" avec les cartes de couleur. L'enchère se joue sur le nombre de cartes de couleur qu'on est prêt à donner.
 Un petit plateau avec 5 couleurs et 5 dés de couleur est fourni. Les cartes actions servent à augmenter ou diminuer la valeur des dés.
 Quand toutes les cartes Enchères ont été vendues, on attribue les dés aux joueurs suivants les cartes restantes dans leur main : un maximum de points dans une couleur donnée rapporte le dé de la même couleur.
 Le gagnant est celui qui a le plus haut cumul de points de dés.
 
-Tout est affaire de pif, de bluff, de compromis, et de regret ("Ah non.. j'aurais pas du !") ce qui en fait un jeu vraiment fun, agréable, rapide et simple.
+Tout est affaire de **pif**, de **bluff**, de **compromis**, et de **regret** (*"Ah non.. j'aurais pas du !"*) ce qui en fait un jeu vraiment **fun**, **agréable**, **rapide** et **simple**.
 
 Qui plus est le matériel est magnifique : les illustrations sont très jolies, la boîte est solide et bien faite. Les règles sont concises et bien écrites.
 
