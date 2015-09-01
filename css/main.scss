@@ -769,3 +769,60 @@ article.type-system-traditional {
     }
   }
 }
+.bloggers {
+  $base-line-height: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $icon-bullet-size: 3.5em;
+
+  @include display(flex);
+  @include flex-wrap(wrap);
+  margin-bottom: $base-line-height;
+  margin: 1em;
+  overflow: auto;
+  padding: 0;
+      @include outer-container;
+  .blogger {
+    @include  span-columns(12);
+
+  }
+
+  .blogger-icon {
+    @include span-columns(3);
+    @include pad();
+    border-radius: 50%;
+    float: left;
+
+    img {
+      border-radius: 50%;
+    }
+  }
+
+  .blogger-content {
+    @include span-columns(5);
+    @include reset-display;
+    @include pad();
+    margin-left: $icon-bullet-size * 1.4;
+    margin-bottom: 2em;
+  }
+
+  h2 {
+    border-bottom: 1px solid transparentize($base-font-color, 0.8);
+    display: inline-block;
+    font-size: $icon-bullet-size / 2.5;
+    margin: 0 0 ($icon-bullet-size / 6) 0;
+    padding-top: $icon-bullet-size / 7;
+  }
+
+
+
+  p {
+    color: $base-font-color;
+    line-height: $base-line-height;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}

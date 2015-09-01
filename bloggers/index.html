@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="home">
+<h1>Présentation</h1>
+<p>Niché au fin fond des Ardennes belges, nous sommes blah blah blah ...</p>
+<div class="bloggers">
+
+  {% for author in site.data.authors.list %}
+
+  <div class="blogger">
+    <div class="blogger-icon">
+      <img src="{{site.data.authors[author.name].avatar}}" alt="">
+    </div>
+    <div class="blogger-content">
+      <h2>{{site.data.authors[author.name].name}}</h2>
+      <p>{{site.data.authors[author.name].description}}</p>
+      </div>
+  </div>
+
+  {% endfor %}
+
+</div>
+
+</div>
