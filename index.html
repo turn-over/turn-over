@@ -18,7 +18,7 @@ layout: default
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </div>
       <div class="card-copy">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, officiis sunt neque facilis culpa molestiae necessitatibus delectus veniam provident.</p>
+        <p>{{ post.content | strip_html | truncatewords:40}}</p>
       </div>
     </div>
 
