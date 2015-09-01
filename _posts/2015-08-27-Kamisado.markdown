@@ -9,26 +9,24 @@ author: krazymins
 ---
 Kamisado est un très bon jeu abstrait pour 2 joueurs. Si vous en avez assez des dames, des échecs... si vous voulez du renouveau, Kamisado est fait pour vous!
 
-A la manière d'un Quarto, on influence directement le jeu de l'adversaire. A la manière des Dames, il faut rejoindre le côté adverse et les règles sont très simples. A la manière des Echecs, il y a plusieurs déplacements possibles sur le plateau.
+A la manière d'un Quarto, on **influence directement le jeu de l'adversaire**. A la manière des Dames, il faut **rejoindre le côté adverse** et les **règles sont très simples**. A la manière des Echecs, il y a plusieurs déplacements possibles sur le plateau.
 
 Kamisado est un plateau de 8*8, toutes les cases étant colorées. Les 2 joueurs ont 8 pièces (tours), chacune correspondant à une couleur du plateau.
 
-Dès qu'une tour rejoint le côté adverse, la manche prend fin. A chaque déplacement, la couleur sur laquelle se pose une tour impose à l'adversaire de jouer sa tour de la couleur correspondante. Chaque coup entraîne donc une réaction en chaîne.
+Dès qu'une tour rejoint le côté adverse, la manche prend fin. A chaque déplacement, la couleur sur laquelle se pose une tour impose à l'adversaire de jouer sa tour de la couleur correspondante. **Chaque coup entraîne** donc **une réaction en chaîne**.
 
 Si on réfléchit à un coup près, ce jeu est simple. Mais le nombre de possibilités est exponentiel et on peut vite se creuser la tête...
 
 Mais ce n'est que du bonheur. Car cela diffère de tout les jeux abstraits que vous avez connus jusqu'à lors.
 
-Dans Kamisado on ne peut pas prendre les pions adverses, seulement les empêcher de passer. Il faut donc à la fois faire barrage, et en même temps se frayer un chemin pour traverser le plateau.
+Dans Kamisado on ne peut pas prendre les pions adverses, seulement les empêcher de passer. Il faut donc **à la fois faire barrage, et en même temps se frayer un chemin** pour traverser le plateau.
 
 Le jeu prend d'autant plus son sens lorsque l'on enchaîne les manches : le gagnant de la manche précédente peut améliorer la capacité de sa tour gagnante (qui de vient un "Sumo") pour repousser 1 tour adverse, ou plus en fonction du nombre de victoires précédentes (ce qu'on appelle un oshi). Une partie complète peut donc se décliner en plusieurs manches et la stratégie évolue peu à peu.
 
-On peut choisir de faire une partie en 1, 3 ou 7 manches, les règles de victoires variant légèrement. On peut donc adapter la durée de la partie en fonction de son planning ("Un p'tit Kami vite fait avant d'aller chez mère-grand ? On se la fait en 1 manche !").  
+On peut choisir de faire une partie en 1, 3 ou 7 manches, les règles de victoires variant légèrement. On peut donc adapter la durée de la partie en fonction de son planning (*"Un p'tit Kami vite fait avant d'aller chez mère-grand ? On se la fait en 1 manche !"*).  
 
-Côté matériel : les couleurs très présentes peuvent ravir les réfractaires aux plateaux bicolores. En même temps, un côté du jeu est prévu pour les daltoniens ("Ils ont vraiment tout prévu chez Huchi !") : des caractères chinois (kanji) sont présents sur les cases pour les différencier. Petit bémol cependant, Huchi n'a pas pensé qu'en occident nous ne sommes pas familiarisés avec ces signes ... Il est donc dur de les différencier facilement.
+Côté matériel : les couleurs très présentes peuvent ravir les réfractaires aux plateaux bicolores. En même temps, un côté du jeu est prévu pour les daltoniens (*"Ils ont vraiment tout prévu chez Huchi !"*) : des caractères chinois (kanji) sont présents sur les cases pour les différencier. Petit bémol cependant, Huchi n'a pas pensé qu'en occident nous ne sommes pas familiarisés avec ces signes ... Il est donc dur de les différencier facilement.
 
-Le matériel est de très bonne qualité et fait plaisir entre ses petits doigts boudinés.
+**Le matériel est de très bonne qualité** et fait plaisir entre ses petits doigts boudinés.
 
-Les amateurs de jeu abstrait peuvent foncer sur ce bon jeu : ils ne seront pas déçus et découvriront un jeu qui les sortira de l'ordinaire !
-
- 
+**Les amateurs de jeu abstrait peuvent foncer sur ce bon jeu** : ils ne seront pas déçus et découvriront un jeu qui les sortira de l'ordinaire !
