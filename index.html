@@ -4,17 +4,17 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Articles</h1>
 
   <div class="cards">
 
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <div class="card">
       <div class="card-image">
         <img src="{{ post.img}}" alt="">
       </div>
       <div class="card-header">
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </div>
       <div class="card-copy">
@@ -27,8 +27,39 @@ layout: default
 
   </div>
 
+  <!-- Pagination links -->
+<div class="pagination">
+  <ul>
+  {% if paginator.previous_page %}
+    <li class="page-prev"><a href="{{ paginator.previous_page_path }}">Précédent</a></li>
+  {% else %}
+    <li class="page-prev">Précédent</li>
+  {% endif %}
+
+  <ul>
+        {% for page in (1..paginator.total_pages) %}
+
+          {% if page == paginator.page %}
+            <li>{{ page }}</li>
+          {% elsif page == 1 %}
+            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+          {% else %}
+            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+          {% endif %}
 
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        {% endfor %}
+  </ul>
+
+  <!-- <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> -->
+  {% if paginator.next_page %}
+    <li class="page-next"><a href="{{ paginator.next_page_path }}">Suivant</a></li>
+  {% else %}
+    <li class="page-next">Suivant</li>
+  {% endif %}
+  </ul>
+</div>
+
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
 
 </div>
