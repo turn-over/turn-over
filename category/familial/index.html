@@ -1,0 +1,31 @@
+---
+layout: default
+current_category: familial
+---
+<div class="home">
+  <div class="cards">
+  {% for category in site.categories %}
+    {% if category[0] == page.current_category %}
+        {% for catposts in category %}
+            {% if forloop.first %}
+                {% continue %}
+            {% endif %}
+            {% for catpost in catposts %}
+            <div class="card">
+              <div class="card-image">
+                <img src="{{ catpost.img}}" alt="">
+              </div>
+              <div class="card-header">
+                <span class="post-meta">{{ catpost.date | date: "%d/%m/%Y" }}</span>
+                <a class="post-link" href="{{ catpost.url | prepend: site.baseurl }}">{{ catpost.title }}</a>
+              </div>
+              <div class="card-copy">
+                <p>{{ catpost.content | strip_html | truncatewords:40}}</p>
+              </div>
+            </div>
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+  </div>
+</div>
