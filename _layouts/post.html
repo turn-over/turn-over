@@ -6,7 +6,17 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}{% if page.author %} • {{ site.data.authors[page.author].name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <div class="stats">
+    <ul>
+      <li>{{page.players}}<span>{%icon fa-users fa-2x %}</span></li>
+      <li>{{page.age}}<span>{%icon fa-birthday-cake fa-2x %}</span></li>
+      <li>{{page.length}}<span>{% icon fa-clock-o fa-2x %}</span></li>
+      <li>{{page.year}}<span>{% icon fa-calendar fa-2x %}</span></li>
+    </ul>
+    </div>
+
   </header>
+
 
   <article class="type-system-traditional">
     {{ content }}

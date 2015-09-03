@@ -5,8 +5,18 @@ date:   2015-08-25 23:09:00
 img: /assets/img/deus.jpeg
 categories: Familial
 tags: Cartes
-author: krazymins
+players: 2-4
+age: 14+
+length: 60-90 min
+designers: Sébastien Dujardin
+editors: Pearl Games
+year: 2014
 ---
+
+### Krazymins
+
+{% icon fa-cube fa-3x %}
+
 Deus est un __très bon compagnon de soirée__... Il peut se délecter seul, ou accompagné de **Minivilles** en hors d'oeuvre et de **Terra Mystica** comme fromage-dessert (*"Terra Mystica c'est carrément une pièce montée oui!"*). Deus fait un très bon lien entre ces jeux : un côté pioche / combo / activation de cartes en cascade de **Minivilles**, et un côté placement / conquête de zones / construction / ressources de **Terra Mystica**...
 
 Deus est un jeu **contrôlable** et "**responsable**" comme on les aime : contrôlable car on contrôle (presque) tout de A à Z, responsable car si on se plante, on ne peut s'en prendre qu'à soi-même (*"Raaaah ! Pourquoi j'ai fait ça !"*).
@@ -60,3 +70,25 @@ Un jeu qui plus est joli et très coloré...
 Un jeu qui cache bien son jeu...
 
 Bref... **un jeu qu'il est très bien pour y jouer !**
+
+------
+
+### Theater Of Chaos
+
+> Mais où vont-ils, par Jupiter ? Je ne sais pas, par Mercure !
+
+Toute la terre est occupée, toute? non! il existe encore quelques villages barbares qui résistent encore et toujours à l'envahisseur. Vous voila donc à la tête d'une civilisation que vous allez développer et installer tout au long du jeu.
+
+Le jeu est êxtremement fluide et simple à expliquer. Un tour se résume à:
+
+- construire un bâtiment sur le plateau de jeu en jouant la carte correspondante et la plaçant dans la colonne du type de bâtiment correspondant. Cela entraine l'activation en séquence des effets de toutes les cartes jouées précédemment du même type.
+
+ou
+
+- défausser sa main en tout ou partie pour faire une offrande à un des dieux afin de bénéficier de son pouvoir et forcer le destin à nous envoyer les cartes dont on a besoin.
+
+Des combos entre les cartes intéressantes, on en découvre de nouvelles à chaque partie. Ne pas être allergique au hasard, la dose d'aléatoire nous invite à chaque partie à jouer différemment, cependant, il est contrôlable grâce aux offrandes. Le tempo de la partie peut être accélérer ou ralenti grâce aux deux conditions de fin de partie à savoir: attaquer tous les villages barbares ou construire tous les temples.
+
+Très addictif, un jeu ou l'on doit s'adapter constamment. Les tours de jeu s'enchainent assez vite ce qui est très agréable.
+
+Bref, un très très bon jeu que l'on ressort facilement, jusqu'ici tout le monde en redemande!
