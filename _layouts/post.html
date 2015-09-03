@@ -8,10 +8,10 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}{% if page.author %} • {{ site.data.authors[page.author].name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     <div class="stats">
     <ul>
-      <li>{{page.players}}<span>{%icon fa-users fa-2x %}</span></li>
-      <li>{{page.age}}<span>{%icon fa-birthday-cake fa-2x %}</span></li>
-      <li>{{page.length}}<span>{% icon fa-clock-o fa-2x %}</span></li>
-      <li>{{page.year}}<span>{% icon fa-calendar fa-2x %}</span></li>
+      <li>{{page.players}}<span><i class="fa fa-users fa-2x"></i></span></li>
+      <li>{{page.age}}<span><i class="fa fa-birthday-cake fa-2x"></i></span></li>
+      <li>{{page.length}}<span><i class="fa fa-clock-o fa-2x"></i></span></li>
+      <li>{{page.year}}<span><i class="fa fa-calendar fa-2x"></i></span></li>
     </ul>
     </div>
 

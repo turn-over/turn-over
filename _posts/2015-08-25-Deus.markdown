@@ -15,7 +15,7 @@ year: 2014
 
 ### Krazymins
 
-{% icon fa-cube fa-3x %}
+<i class="fa fa-cube fa-2x"></i>
 
 Deus est un __très bon compagnon de soirée__... Il peut se délecter seul, ou accompagné de **Minivilles** en hors d'oeuvre et de **Terra Mystica** comme fromage-dessert (*"Terra Mystica c'est carrément une pièce montée oui!"*). Deus fait un très bon lien entre ces jeux : un côté pioche / combo / activation de cartes en cascade de **Minivilles**, et un côté placement / conquête de zones / construction / ressources de **Terra Mystica**...
 
