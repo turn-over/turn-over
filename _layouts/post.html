@@ -23,3 +23,17 @@ layout: default
   </article>
   <img src="{{ page.img }}" alt="">
 </div>
+<script type="text/javascript">
+   $(function() {
+
+    {% for score in page.scores%}
+
+      $('#{{score.author}}_score').barrating({
+        theme: 'fontawesome-stars',
+        readonly: true,
+        initialRating: {{score.score}}
+      });
+
+      {% endfor %}
+   });
+</script>
