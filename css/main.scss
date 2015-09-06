@@ -838,6 +838,11 @@ article.type-system-traditional {
   }
 }
 
+.stats-long-title {
+  @extend .stats;
+  position: static;
+  display: inline-block;
+}
 
 .br-theme-fontawesome-stars .br-widget {
   height: 28px;

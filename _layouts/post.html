@@ -16,7 +16,13 @@ layout: default
 
     <p>Un jeu de {{page.designers}}</p>
     <p>Edité par {{page.editors}}</p>
-    <div class="stats">
+    {% capture difference %}{{ page.title | size | minus: 15}}{% endcapture %}
+    {% unless difference contains '-' %}
+    {% assign statsClass = 'stats-long-title' %}
+    {% else %}
+    {% assign statsClass = 'stats' %}
+    {% endunless %}    
+  <div class="{{statsClass}}">
     <ul>
       <li>{{page.players}}<span><i class="fa fa-users fa-2x"></i></span></li>
       <li>{{page.age}}<span><i class="fa fa-birthday-cake fa-2x"></i></span></li>
