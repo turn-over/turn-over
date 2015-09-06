@@ -16,7 +16,20 @@ scores:
     score: 10
 ---
 
----
+<span>Dans Biblios, vous incarnez un abbé
+à la tête d’un monastère au Moyen
+Age, en rivalité avec d’autres abbés
+pour avoir la plus belle bibliothèque de
+livres sacrés et profanes. Pour parvenir
+à vos fins, il vous faudra acquérir les
+ressources nécessaires à la fabrication
+des enluminures, recruter les meilleurs
+copistes et reproduire les œuvres les
+plus prisées. Pour cela, vous aurez à
+votre disposition une quantité d’or
+limitée. Enfin, vous devrez éviter les
+foudres du clergé et séduire les évêques
+et le pape pour atteindre votre objectif.</span>
 
 ###Krazymins
 

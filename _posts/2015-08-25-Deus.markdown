@@ -17,7 +17,13 @@ scores:
   - author: theaterofchaos
     score: 10
 ---
-------
+
+<span>A la tête d’une civilisation du monde antique, vous explorez des terres inconnues pour
+développer votre empire. Fondez des nouvelles villes et construisez des bâtiments pour
+exploiter les ressources naturelles, établir des routes commerciales, partir à la conquête des
+villages barbares ou accroître vos connaissances scientifiques.
+N’oubliez pas d’entretenir de bonnes relations avec les dieux !
+ Rendez-leur hommage en leur faisant des offrandes et en construisant des temples fabuleux.</span>
 
 ### Krazymins
 

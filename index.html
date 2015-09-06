@@ -22,15 +22,15 @@ layout: default
 
 
 
-        <p>
-          {{ post.content | strip_html | truncatewords:40}}</p>
+        <p><span>
+          {{ post.excerpt | strip_html | truncatewords:40}}</span><p>
 
 
 
       </div>
 
     </div>
-  
+
 
     {% endfor %}
 

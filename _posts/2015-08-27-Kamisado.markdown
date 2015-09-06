@@ -16,7 +16,8 @@ scores:
     score: 9
 ---
 
----
+<span>Kamisado est un jeu de stratégie abstrait pour 2 joueurs. Chacun contrôle 8 tours Dragon. La « couleur » de chaque tour est déterminée par un caractère
+chinois (kanji) gravé de la couleur correspondante.</span>
 
 ### Krazymins
 

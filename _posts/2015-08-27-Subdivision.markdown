@@ -18,7 +18,7 @@ scores:
     score: 8
 ---
 
----
+<span>Elaborer le plan d'urbanisme d'un nouveau quartier dans la grande étendue de terre qui a été annexé à la ville. Toutes les zones du quartier devraient avoir accès à l'autoroute, et vous devrez optimiser l'emplacement de chacune des parcelles constructibles. L'architecte qui aura conçu le lotissement le plus optimisé décrochera le contrat du projet de construction auprès des autorités locales.</span>
 
 ### Krazymins
 
