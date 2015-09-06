@@ -1,15 +1,92 @@
 ---
 layout: default
 ---
-<div class="post">
+<img id="cover" src="{{ page.img }}_cover.jpeg" alt="">
+<div class="scroll-on-page">
+  <aside id="scroll-on-page-top">
+    {% for score in page.scores%}
+      <a class="scroll-on-page-link" href="#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}">{{site.data.authors[score.author].name}}</a>
+    {% endfor %}
+  </aside>
+<article class="type-system-traditional">
+  <p class="type">An Evening With</p>
+  <header style="position:relative;">
+    <h1>{{ page.title }}</h1>
+    <p class="date">Posté le {{ page.date | date: "%d/%m/%Y" }}{% if page.author %} • {{ site.data.authors[page.author].name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ site.data.authors[page.author].name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p>Un jeu de {{page.designers}}</p>
+    <p>Edité par {{page.editors}}</p>
+    <div class="stats">
+    <ul>
+      <li>{{page.players}}<span><i class="fa fa-users fa-2x"></i></span></li>
+      <li>{{page.age}}<span><i class="fa fa-birthday-cake fa-2x"></i></span></li>
+      <li>{{page.length}}<span><i class="fa fa-clock-o fa-2x"></i></span></li>
+      <li>{{page.year}}<span><i class="fa fa-calendar fa-2x"></i></span></li>
+    </ul>
+    </div>
+
   </header>
 
-  <article class="post-content">
+
+
     {{ content }}
-  </article>
-  <img src="{{ page.img }}" alt="">
+    <a class="scroll-on-page-link" href="#cover">Revenir au début</a>
+
+  <img src="{{ page.img }}.jpeg" alt="">
+</article>
 </div>
+<script type="text/javascript">
+  // Register on click scrolling to the aside navigation
+   (function (jQuery) {
+  jQuery.mark = {
+    jump: function (options) {
+      var defaults = {
+        selector: 'a.scroll-on-page-link'
+      };
+      if (typeof options == 'string') {
+        defaults.selector = options;
+      }
+
+      options = jQuery.extend(defaults, options);
+      return jQuery(options.selector).click(function (e) {
+        var jumpobj = jQuery(this);
+        var target = jumpobj.attr('href');
+        var thespeed = 1000;
+        var offset = jQuery(target).offset().top;
+        jQuery('html,body').animate({
+          scrollTop: offset
+        }, thespeed, 'swing');
+        e.preventDefault();
+      });
+    }
+  };
+})(jQuery);
+
+
+jQuery(function(){
+  jQuery.mark.jump();
+});
+
+
+$(function() {
+  // For each score in this page
+ {% for score in page.scores%}
+
+  //Insert blogger avatar.
+  $("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}").prepend("  <div class='bloggers'><div class='blogger-icon'><img src='{{site.data.authors[score.author].avatar}}'' alt=''></div></div>")
+
+  //Insert blogger html rating bar.
+  $("<div>{{score.score}}/10</div><select id='{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score'><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>").insertAfter("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}");
+
+  //Activate blogger score.
+  $('#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score').barrating({
+     theme: 'fontawesome-stars',
+     readonly: true,
+     initialRating: {{score.score}}
+   });
+
+   {% endfor %}
+});
+
+
+</script>

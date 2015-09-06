@@ -2,11 +2,37 @@
 layout: post
 title:  "Biblios"
 date:   2015-08-29 20:30:00
-img: /assets/img/biblios.jpeg
+img: /assets/img/biblios
 categories: Familial
 tags: Cartes
-author: krazymins
+players: 2-4
+age: 10+
+length: 30 min
+designers: Steve Finn
+editors: Iello
+year: 2007
+scores:
+  - author: krazymins
+    score: 10
 ---
+
+<span>Dans Biblios, vous incarnez un abbé
+à la tête d’un monastère au Moyen
+Age, en rivalité avec d’autres abbés
+pour avoir la plus belle bibliothèque de
+livres sacrés et profanes. Pour parvenir
+à vos fins, il vous faudra acquérir les
+ressources nécessaires à la fabrication
+des enluminures, recruter les meilleurs
+copistes et reproduire les œuvres les
+plus prisées. Pour cela, vous aurez à
+votre disposition une quantité d’or
+limitée. Enfin, vous devrez éviter les
+foudres du clergé et séduire les évêques
+et le pape pour atteindre votre objectif.</span>
+
+###Krazymins
+
 Excellent petit jeu. Convient tout à fait pour un début de soirée avec une petite partie tranquille pour mettre en appétit avant un jeu plus costaud. Il convient également tout à fait pour jouer dans la voiture ou emmener partout avec soi en vacances. Attention, ce jeu n'est pas juste un jeu fun et pratique. Il y a une grosse composante bluff et avec des joueurs qui s'y prêtent, on passe un très bon moment. Comme le poker : facile et fun en apparence, on se rend compte de l'aspect "psychologique" que plus tard...
 
 Pas de tergiversations ici sur le thème du jeu qui, à mon sens, n'apporte pratiquement rien au jeu en lui-même.

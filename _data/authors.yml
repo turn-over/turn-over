@@ -2,8 +2,31 @@
 theaterofchaos:
     name: Theater Of Chaos
     email: robert@sorryapp.com
+    avatar: /assets/img/avatar/avatar-toc-small.png
     web: http://turn-over.github.io
+    description: Architecte logiciel, papa, claviériste avec un sérieux penchant pour les jeux à base de cube, de bois...
 krazymins:
     name: Krazymins
     email: Krazymins@gmail.com
+    avatar: /assets/img/avatar/avatar-krazymins-small.png
     web: http://turn-over.github.io
+    description: Lorem ipsum ....
+surefairy:
+    name: Sure Fairy
+    web: http://turn-over.github.io
+    avatar: /assets/img/avatar/avatar-surefairy-small.png
+    description: Musicienne, maman, joueuse contrainte et forcée...
+cheez-inator:
+    name: Cheez-inator
+    web: http://turn-over.github.io
+    description: Pas encore bien grand mais il est tombé dans le jeu tout petit.
+babyviking:
+    name: Baby Viking
+    web: http://turn-over.github.io
+    description: Agheuuuuu la la pooh
+list:
+  - name: theaterofchaos
+  - name: krazymins
+  - name: surefairy
+  - name: cheez-inator
+  - name: babyviking

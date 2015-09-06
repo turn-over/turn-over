@@ -1,0 +1,32 @@
+---
+layout: default
+current_category: familial
+---
+<article class="type-system-traditional">
+  <h1>{{page.current_category}}</h1>
+  <div class="cards">
+  {% for category in site.categories %}
+    {% if category[0] == page.current_category %}
+        {% for catposts in category %}
+            {% if forloop.first %}
+                {% continue %}
+            {% endif %}
+            {% for catpost in catposts %}
+            <div class="card">
+              <div class="card-image">
+                <img src="{{ catpost.img}}_cover.jpeg" alt="">
+              </div>
+              <div class="card-header">
+                <span class="post-meta">{{ catpost.date | date: "%d/%m/%Y" }}</span>
+                <a class="read-more" href="{{ catpost.url | prepend: site.baseurl }}">{{ catpost.title }} <span>&rsaquo;</span></a>
+              </div>
+              <div class="card-copy">
+                <p><span>{{ catpost.excerpt | strip_html | truncatewords:40}}</span><p>                
+              </div>
+            </div>
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+  </div>
+</article>

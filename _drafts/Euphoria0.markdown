@@ -2,9 +2,20 @@
 layout: post
 title:  "Euphoria"
 date:   2015-08-03 20:44:44
-img: /assets/img/euphoria.jpg
+img: /assets/img/euphoria
 categories: Experts
 tags: Ouvriers Dés
+players: 2-6
+age: 13+
+length: 60 min
+designers: Jamy Staigmaier & Alan Stone
+editors: Morning Players
+year: 2015
+scores:
+  - author: krazymins
+    score: 9
+  - author: theaterofchaos
+    score: 10
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin cursus turpis sed sapien dapibus, ac maximus nisi malesuada. Maecenas dignissim, nisi et vehicula viverra, eros leo lacinia nunc, id eleifend metus mi et nunc. Ut finibus ipsum mattis nunc tristique, vitae varius leo viverra. Proin sodales mi vitae tortor egestas, id elementum nibh semper. Nulla facilisi. Curabitur in feugiat ligula. Ut quis dolor ut eros sodales accumsan. Nunc non ornare lacus. Integer placerat dui ex, eu condimentum erat commodo sed. Nullam nisi mi, varius ut viverra vitae, tincidunt vitae sapien. Phasellus nec justo ac tellus rhoncus mattis. Proin laoreet dui vestibulum ligula bibendum, a sodales tortor viverra. Fusce quis velit nisl. Pellentesque dignissim semper felis, eu bibendum mauris. Donec tincidunt ex id sapien malesuada placerat.
 
