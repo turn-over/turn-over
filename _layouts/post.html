@@ -1,10 +1,14 @@
 ---
 layout: default
 ---
+<img src="{{ page.img }}_cover.jpeg" alt="">
+<div class="scroll-on-page">
+  <aside id="scroll-on-page-top">
+    {% for score in page.scores%}
+      <a class="scroll-on-page-link" href="#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}">{{site.data.authors[score.author].name}}</a>
+    {% endfor %}
+  </aside>
 <article class="type-system-traditional">
-
-  <img src="{{ page.img }}_cover.jpeg" alt="">
-
   <header class="post-header">
     <h1>{{ page.title }}</h1>
     <p class="date">Posté le {{ page.date | date: "%d/%m/%Y" }}{% if page.author %} • {{ site.data.authors[page.author].name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
@@ -25,17 +29,54 @@ layout: default
 
   <img src="{{ page.img }}.jpeg" alt="">
 </article>
+</div>
 <script type="text/javascript">
-   $(function() {
+   (function (jQuery) {
+  jQuery.mark = {
+    jump: function (options) {
+      var defaults = {
+        selector: 'a.scroll-on-page-link'
+      };
+      if (typeof options == 'string') {
+        defaults.selector = options;
+      }
 
-    {% for score in page.scores%}
-
-      $('#{{score.author}}_score').barrating({
-        theme: 'fontawesome-stars',
-        readonly: true,
-        initialRating: {{score.score}}
+      options = jQuery.extend(defaults, options);
+      return jQuery(options.selector).click(function (e) {
+        var jumpobj = jQuery(this);
+        var target = jumpobj.attr('href');
+        var thespeed = 1000;
+        var offset = jQuery(target).offset().top;
+        jQuery('html,body').animate({
+          scrollTop: offset
+        }, thespeed, 'swing');
+        e.preventDefault();
       });
+    }
+  };
+})(jQuery);
 
-      {% endfor %}
+
+jQuery(function(){
+  jQuery.mark.jump();
+});
+
+
+$(function() {
+
+ {% for score in page.scores%}
+
+  $("<select id='{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score'><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>").insertAfter("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}");
+
+
+   $('#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score').barrating({
+     theme: 'fontawesome-stars',
+     readonly: true,
+     initialRating: {{score.score}}
    });
+
+   {% endfor %}
+});
+
+
 </script>

@@ -11,7 +11,15 @@ length: 30 min
 designers: Steve Finn
 editors: Iello
 year: 2007
+scores:
+  - author: krazymins
+    score: 10
 ---
+
+---
+
+###Krazymins
+
 Excellent petit jeu. Convient tout à fait pour un début de soirée avec une petite partie tranquille pour mettre en appétit avant un jeu plus costaud. Il convient également tout à fait pour jouer dans la voiture ou emmener partout avec soi en vacances. Attention, ce jeu n'est pas juste un jeu fun et pratique. Il y a une grosse composante bluff et avec des joueurs qui s'y prêtent, on passe un très bon moment. Comme le poker : facile et fun en apparence, on se rend compte de l'aspect "psychologique" que plus tard...
 
 Pas de tergiversations ici sur le thème du jeu qui, à mon sens, n'apporte pratiquement rien au jeu en lui-même.

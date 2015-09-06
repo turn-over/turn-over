@@ -18,10 +18,19 @@ layout: default
         <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span>&rsaquo;</span></a>
       </div>
       <div class="card-copy">
-        <p>{{ post.content | strip_html | truncatewords:40}}</p>
-      </div>
-    </div>
 
+
+
+
+        <p>
+          {{ post.content | strip_html | truncatewords:40}}</p>
+
+
+
+      </div>
+
+    </div>
+  
 
     {% endfor %}
 

@@ -11,8 +11,15 @@ length: 20 min
 designers: Peter Burley
 editors: HUCH! & friends
 year: 2008
+scores:
+  - author: krazymins
+    score: 9
+---
 
 ---
+
+### Krazymins
+
 Kamisado est un très bon jeu abstrait pour 2 joueurs. Si vous en avez assez des dames, des échecs... si vous voulez du renouveau, Kamisado est fait pour vous!
 
 A la manière d'un Quarto, on **influence directement le jeu de l'adversaire**. A la manière des Dames, il faut **rejoindre le côté adverse** et les **règles sont très simples**. A la manière des Echecs, il y a plusieurs déplacements possibles sur le plateau.

@@ -11,8 +11,17 @@ length: 45 min
 designers: Lucas Hedgren
 editors: Bézier Games
 year: 2014
+scores:
+  - author: krazymins
+    score: 7
+  - author: theaterofchaos
+    score: 8
+---
 
 ---
+
+### Krazymins
+
 Pour celui qui aime **construire en solo, monter sa petite ville** et **optimiser son espace de vie**, Subdivision est fait pour lui !
 
 Subdivision est un très bon jeu de **pose de tuiles** où l'objectif est de développer sa ville et d'optimiser un maximum l'espace alloué pour remporter un maximum de points.
@@ -42,3 +51,17 @@ Le deuxième point négatif est, et non pas des moindres, la beauté du jeu et l
 Subdvision reste un **très bon jeu**, **calme**, chacun dans sa construction, où les parties en **solitaire** sont possibles et non pas moins inintéressantes ...
 
 Le genre de jeu tranquille qui passe très bien un dimanche soir au coin du feu, avant de réattaquer une dure journée de labeur le lendemain.
+
+---
+
+### Theater Of Chaos
+
+> Subdivision: subtil et sublime!
+
+Dans subdivision, chaque joueur construit son quartier de ville sur son plateau. Pendant 4 manches à la 7 wonders, les joueurs vont effectuer un draft et jouer une tuile sur leur quartier déclenchant ainsi les pouvoirs des tuiles adjacentes. A la fin de chaque manche les joueurs pourront bénéficier d'un bonus s'ils ont rempli l'objectif de la manche en cours.
+
+Un très bon jeu d'optimisation court et très fluide. On a vraiment l'impression de construire quelque chose, cet effet peut être aussi renforcé grâce aux différents scénarios présents dans la règle.
+
+Les bonus de fin de manche ainsi que le placement déterminé par le dé (à moins de payer 2$) et éventuellement le scénario sélectionné, constituent de réelles contraintes avec lesquelles jongler pour optimiser au mieux la construction de son quartier.
+
+Très agréable à jouer en solo. En effet, l'interaction entre les joueurs se limitent à éventuellement jouer une tuile pour empêcher les joueurs suivant d'en profiter.

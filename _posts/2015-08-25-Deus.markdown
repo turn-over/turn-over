@@ -19,21 +19,7 @@ scores:
 ---
 ------
 
-### Krazymins (9/10)
-
-
-<select id="krazymins_score">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
+### Krazymins
 
 Deus est un __très bon compagnon de soirée__... Il peut se délecter seul, ou accompagné de **Minivilles** en hors d'oeuvre et de **Terra Mystica** comme fromage-dessert (*"Terra Mystica c'est carrément une pièce montée oui!"*). Deus fait un très bon lien entre ces jeux : un côté pioche / combo / activation de cartes en cascade de **Minivilles**, et un côté placement / conquête de zones / construction / ressources de **Terra Mystica**...
 
@@ -91,21 +77,7 @@ Bref... **un jeu qu'il est très bien pour y jouer !**
 
 ------
 
-### Theater Of Chaos (10/10)
-
-<select id="theaterofchaos_score">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-
+### Theater Of Chaos
 
 > Mais où vont-ils, par Jupiter ? Je ne sais pas, par Mercure !
 
