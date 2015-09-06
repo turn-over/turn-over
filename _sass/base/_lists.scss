@@ -24,8 +24,15 @@ ol {
       float: left;
       margin-left: -1.5em;
     }
-  
 }
+
+.stats {
+  li:before {  
+    content: "";
+  }
+}
+
+
 dl {
   margin-bottom: $small-spacing;
 
