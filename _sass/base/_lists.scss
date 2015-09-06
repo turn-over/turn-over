@@ -17,6 +17,15 @@ ol {
   }
 }
 
+.scroll-on-page {
+    li:before {
+      font: normal normal normal 14px/1 FontAwesome;
+      content: "\f054";
+      float: left;
+      margin-left: -1.5em;
+    }
+  
+}
 dl {
   margin-bottom: $small-spacing;
 

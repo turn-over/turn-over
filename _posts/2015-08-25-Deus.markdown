@@ -40,24 +40,20 @@ Le principe du jeu est de construire des bâtiments sur des zones du plateau, qu
 
 A son tour de jeu, nous avons le choix entre :
 
-1. **Construire un bâtiment** : on dépose une carte de sa main sur son plateau individuel et on construit un bâtiment correspondant à la carte sur le plateau de jeu commun. On active l'effet de la carte nouvellement posée ainsi que toutes les autres cartes précédemment posées dans cette catégorie, dans l'ordre de pose des cartes.
+**1. Construire un bâtiment** : on dépose une carte de sa main sur son plateau individuel et on construit un bâtiment correspondant à la carte sur le plateau de jeu commun. On active l'effet de la carte nouvellement posée ainsi que toutes les autres cartes précédemment posées dans cette catégorie, dans l'ordre de pose des cartes.
 
 Pour construire un bâtiment, il faut la carte correspondante ainsi que le bâtiment à construire en réserve. (*"Pas de carte, pas de bâtiment... pas de bâtiment, pas de palais......pas de palais, pas de palais..."*). Chose tout à fait logique, mais qui conduit à un dilemne avec le choix suivant.
 
-2. **Faire une offrande aux dieux** (*"C'est odieux !"*) : globalement, cela se traduit par 3 actions :
+**2. Faire une offrande aux dieux** (*"C'est odieux !"*) : globalement, cela se traduit par 3 actions :
 
-* Se défausser d'une ou plusieurs de ses cartes
-
-* Gagner dans sa réserve un bâtiment, des ressources
-
-* Compléter sa main avec de nouvelles cartes.
+- Se défausser d'une ou plusieurs de ses cartes.
+- Gagner dans sa réserve un bâtiment, des ressources.
+- Compléter sa main avec de nouvelles cartes.
 
 Il faut choisir à quel dieu on fait l'offrande (i.e. quelle est la catégorie visée).
-
-![Deus](/assets/img/deus-playing.jpeg)
-
 En fonction du dieu invoqué, le type de bâtiment / ressource change (logique!) et l'ordre des actions ou les actions elles-mêmes peuvent légèrement varier.
 
+![Deus](/assets/img/deus-playing.jpeg)
 
 Bien sûr **les effets des cartes intéragissent avec le plateau** : on peut gagner certaines ressources en fonction des zones que l'on occupe sur le plateau, on peut récupérer de l'or chez les adversaires sur les zones adjacentes, on peut déplacer ses unités militaires sur une plus grande distance etc ....
 
@@ -94,8 +90,6 @@ Toute la terre est occupée, toute? non! il existe encore quelques villages barb
 Le jeu est êxtremement fluide et simple à expliquer. Un tour se résume à:
 
 - construire un bâtiment sur le plateau de jeu en jouant la carte correspondante et la plaçant dans la colonne du type de bâtiment correspondant. Cela entraine l'activation en séquence des effets de toutes les cartes jouées précédemment du même type.
-
-ou
 
 - défausser sa main en tout ou partie pour faire une offrande à un des dieux afin de bénéficier de son pouvoir et forcer le destin à nous envoyer les cartes dont on a besoin.
 
