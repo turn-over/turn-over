@@ -2,7 +2,8 @@
 layout: default
 current_category: familial
 ---
-<div class="home">
+<article class="type-system-traditional">
+  <h1>{{page.current_category}}</h1>
   <div class="cards">
   {% for category in site.categories %}
     {% if category[0] == page.current_category %}
@@ -13,7 +14,7 @@ current_category: familial
             {% for catpost in catposts %}
             <div class="card">
               <div class="card-image">
-                <img src="{{ catpost.img}}" alt="">
+                <img src="{{ catpost.img}}_cover.jpeg" alt="">
               </div>
               <div class="card-header">
                 <span class="post-meta">{{ catpost.date | date: "%d/%m/%Y" }}</span>
@@ -28,4 +29,4 @@ current_category: familial
     {% endif %}
 {% endfor %}
   </div>
-</div>
+</article>
