@@ -18,7 +18,7 @@ current_category: experts
               </div>
               <div class="card-header">
                 <span class="post-meta">{{ catpost.date | date: "%d/%m/%Y" }}</span>
-                <a class="post-link" href="{{ catpost.url | prepend: site.baseurl }}">{{ catpost.title }}</a>
+                <a class="read-more" href="{{ catpost.url | prepend: site.baseurl }}">{{ catpost.title }} <span>&rsaquo;</span></a>                
               </div>
               <div class="card-copy">
                 <p>{{ catpost.content | strip_html | truncatewords:40}}</p>
