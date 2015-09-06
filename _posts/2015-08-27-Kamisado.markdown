@@ -5,7 +5,13 @@ date:   2015-08-27 21:50:00
 img: /assets/img/kamisado
 categories: Familial
 tags: Cartes
-author: krazymins
+players: 2
+age: 13+
+length: 20 min
+designers: Peter Burley
+editors: HUCH! & friends
+year: 2008
+
 ---
 Kamisado est un très bon jeu abstrait pour 2 joueurs. Si vous en avez assez des dames, des échecs... si vous voulez du renouveau, Kamisado est fait pour vous!
 

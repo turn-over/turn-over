@@ -5,7 +5,13 @@ date:   2015-08-28 21:00:00
 img: /assets/img/subdivision
 categories: Familial
 tags: Cartes
-author: krazymins
+players: 1-4
+age: 13+
+length: 45 min
+designers: Lucas Hedgren
+editors: Bézier Games
+year: 2014
+
 ---
 Pour celui qui aime **construire en solo, monter sa petite ville** et **optimiser son espace de vie**, Subdivision est fait pour lui !
 

@@ -5,7 +5,12 @@ date:   2015-08-29 20:30:00
 img: /assets/img/biblios
 categories: Familial
 tags: Cartes
-author: krazymins
+players: 2-4
+age: 10+
+length: 30 min
+designers: Steve Finn
+editors: Iello
+year: 2007
 ---
 Excellent petit jeu. Convient tout à fait pour un début de soirée avec une petite partie tranquille pour mettre en appétit avant un jeu plus costaud. Il convient également tout à fait pour jouer dans la voiture ou emmener partout avec soi en vacances. Attention, ce jeu n'est pas juste un jeu fun et pratique. Il y a une grosse composante bluff et avec des joueurs qui s'y prêtent, on passe un très bon moment. Comme le poker : facile et fun en apparence, on se rend compte de l'aspect "psychologique" que plus tard...
 
