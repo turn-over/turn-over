@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{ page.img }}_cover.jpeg" alt="">
+<img id="cover" src="{{ page.img }}_cover.jpeg" alt="">
 <div class="scroll-on-page">
   <aside id="scroll-on-page-top">
     {% for score in page.scores%}
@@ -30,7 +30,7 @@ layout: default
 
 
     {{ content }}
-    <a class="scroll-on-page-link" href="#scroll-on-page-top">Revenir au début</a>
+    <a class="scroll-on-page-link" href="#cover">Revenir au début</a>
 
   <img src="{{ page.img }}.jpeg" alt="">
 </article>
