@@ -76,7 +76,7 @@ $(function() {
   $("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}").prepend("  <div class='bloggers'><div class='blogger-icon'><img src='{{site.data.authors[score.author].avatar}}'' alt=''></div></div>")
 
   //Insert blogger html rating bar.
-  $("<select id='{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score'><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>").insertAfter("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}");
+  $("<div>{{score.score}}/10</div><select id='{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score'><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>").insertAfter("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}");
 
   //Activate blogger score.
   $('#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score').barrating({
