@@ -14,6 +14,8 @@ year: 2007
 scores:
   - author: krazymins
     score: 10
+  - author: theaterofchaos
+    score: 8
 ---
 
 <span>Dans Biblios, vous incarnez un abbé
@@ -57,3 +59,15 @@ Tout est affaire de **pif**, de **bluff**, de **compromis**, et de **regret** (*
 Qui plus est le matériel est magnifique : les illustrations sont très jolies, la boîte est solide et bien faite. Les règles sont concises et bien écrites.
 
 Faites-vous ce petit plaisir, l'apéro vous remerciera.
+
+### Theater Of Chaos
+
+Biblios est un excellent jeu de Steve Finn. Partie courte. Un coté très addictif. Tout l'intérêt réside dans le bluff et le coté psychologique. Je recommande chaudement la variante “Bluff Médiéval” qui sanctionne moins fortement un joueur qui ne saurait pas payer lors d'une enchère. Cela incite à prendre des risques et à doper le bluff sur les enchères afin de faire payer au maximum une carte fortement convoitée par d'autres joueurs.
+
+Un des rares jeux d'enchère qui fonctionne aussi très bien à deux grâce aux cartes écartées aléatoirement lors de la mise place. Il est donc impossible d'avoir une vision parfaite de ce que contient le deck de carte d'une partie à l'autre.
+
+Le suspens lors de l'attribution des dés (point de victoire) en fin de partie est à chaque fois un moment très fun et plein de surprises!
+
+On peut effectivement l'emmener partout mais contrairement à mon camarade Krazymins je ne m'y risquerais pas en voiture !
+
+A jouer sans modération.
