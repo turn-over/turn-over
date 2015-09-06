@@ -2,7 +2,7 @@
 layout: post
 title:  "Deus"
 date:   2015-08-25 23:09:00
-img: /assets/img/deus.jpeg
+img: /assets/img/deus
 categories: Familial
 tags: Cartes
 players: 2-4
@@ -17,8 +17,10 @@ scores:
   - author: theaterofchaos
     score: 10
 ---
+------
 
 ### Krazymins (9/10)
+
 
 <select id="krazymins_score">
   <option value="1">1</option>

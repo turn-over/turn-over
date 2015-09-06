@@ -2,7 +2,7 @@
 layout: post
 title:  "Subdivision"
 date:   2015-08-28 21:00:00
-img: /assets/img/subdivision.jpeg
+img: /assets/img/subdivision
 categories: Familial
 tags: Cartes
 author: krazymins

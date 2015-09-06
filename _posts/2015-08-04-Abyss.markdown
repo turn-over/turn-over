@@ -2,7 +2,7 @@
 layout: post
 title:  "Abyss"
 date:   2015-08-04 20:44:44
-img: /assets/img/abyss.jpg
+img: /assets/img/abyss
 categories: Familial
 tags: Cartes
 ---

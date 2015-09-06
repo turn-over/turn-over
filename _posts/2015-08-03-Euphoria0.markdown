@@ -2,7 +2,7 @@
 layout: post
 title:  "Euphoria"
 date:   2015-08-03 20:44:44
-img: /assets/img/euphoria.jpg
+img: /assets/img/euphoria
 categories: Experts
 tags: Ouvriers Dés
 ---
