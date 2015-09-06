@@ -797,9 +797,15 @@ article.type-system-traditional {
   $base-font-color: $dark-gray !default;
   $action-color: #477dca !default;
   $stats-color: lighten($action-color, 10%);
-  position: absolute;
-  top: 0;
-  right: 0;
+  @include media($mobile-screen) {
+    display: inline-block;
+  }
+  @include media($medium-screen) {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
   padding: $base-spacing / 2;
 
   ul {
