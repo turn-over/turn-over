@@ -40,11 +40,11 @@ Le principe du jeu est de construire des bâtiments sur des zones du plateau, qu
 
 A son tour de jeu, nous avons le choix entre :
 
-- **Construire un bâtiment** : on dépose une carte de sa main sur son plateau individuel et on construit un bâtiment correspondant à la carte sur le plateau de jeu commun. On active l'effet de la carte nouvellement posée ainsi que toutes les autres cartes précédemment posées dans cette catégorie, dans l'ordre de pose des cartes.
+1. **Construire un bâtiment** : on dépose une carte de sa main sur son plateau individuel et on construit un bâtiment correspondant à la carte sur le plateau de jeu commun. On active l'effet de la carte nouvellement posée ainsi que toutes les autres cartes précédemment posées dans cette catégorie, dans l'ordre de pose des cartes.
 
 Pour construire un bâtiment, il faut la carte correspondante ainsi que le bâtiment à construire en réserve. (*"Pas de carte, pas de bâtiment... pas de bâtiment, pas de palais......pas de palais, pas de palais..."*). Chose tout à fait logique, mais qui conduit à un dilemne avec le choix suivant.
 
-- **Faire une offrande aux dieux** (*"C'est odieux !"*) : globalement, cela se traduit par 3 actions :
+2. **Faire une offrande aux dieux** (*"C'est odieux !"*) : globalement, cela se traduit par 3 actions :
 
 * Se défausser d'une ou plusieurs de ses cartes
 
