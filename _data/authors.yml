@@ -22,11 +22,17 @@ cheez-inator:
     description: Pas encore bien grand mais il est tombé dans le jeu tout petit.
 babyviking:
     name: Baby Viking
-    web: http://turn-over.github.io
     description: Agheuuuuu la la pooh
+    web: http://turn-over.github.io
+chaalia:
+    name: Chaalia
+    web: http://turn-over.github.io
+    avatar: /assets/img/avatar/chaalia-small.png
+    description: Educatrice spécialisée bientôt en ludologie, amatrice de tuiles et de petits bidules en bois
 list:
   - name: theaterofchaos
   - name: krazymins
   - name: surefairy
   - name: cheez-inator
   - name: babyviking
+  - name: chaalia

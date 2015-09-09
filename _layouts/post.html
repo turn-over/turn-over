@@ -16,12 +16,18 @@ layout: default
 
     <p>Un jeu de {{page.designers}}</p>
     <p>Edité par {{page.editors}}</p>
-    <div class="stats">
+    {% capture difference %}{{ page.title | size | minus: 15}}{% endcapture %}
+    {% unless difference contains '-' %}
+    {% assign statsClass = 'stats-long-title' %}
+    {% else %}
+    {% assign statsClass = 'stats' %}
+    {% endunless %}
+  <div class="{{statsClass}}">
     <ul>
-      <li>{{page.players}}<span><i class="fa fa-users fa-2x"></i></span></li>
-      <li>{{page.age}}<span><i class="fa fa-birthday-cake fa-2x"></i></span></li>
-      <li>{{page.length}}<span><i class="fa fa-clock-o fa-2x"></i></span></li>
-      <li>{{page.year}}<span><i class="fa fa-calendar fa-2x"></i></span></li>
+      <li>{{page.players}}<span style="text-align: center;padding-top:5px;"><i class="fa fa-users fa-2x"></i></span></li>
+      <li>{{page.age}}<span style="text-align: center;padding-top:5px;"><i class="fa fa-birthday-cake fa-2x"></i></span></li>
+      <li>{{page.length}}<span style="text-align: center;padding-top:5px;"><i class="fa fa-clock-o fa-2x"></i></span></li>
+      <li>{{page.year}}<span style="text-align: center;padding-top:5px;"><i class="fa fa-calendar fa-2x"></i></span></li>
     </ul>
     </div>
 
@@ -76,7 +82,7 @@ $(function() {
   $("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}").prepend("  <div class='bloggers'><div class='blogger-icon'><img src='{{site.data.authors[score.author].avatar}}'' alt=''></div></div>")
 
   //Insert blogger html rating bar.
-  $("<div>{{score.score}}/10</div><select id='{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score'><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>").insertAfter("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}");
+  $("<div>{{score.score}}/10</div><select id='{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score'><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select><br>").insertAfter("#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}");
 
   //Activate blogger score.
   $('#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score').barrating({
