@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "The City"
+date:   2015-09-10 23:21:05
+img: /assets/img/thecity
+categories: Familial
+tags: Cartes
+players: 2-5
+age: 10+
+length: 20 min
+designers: Tom Lehmann
+editors: Gigamic
+year: 2012
+scores:
+  - author: surefairy
+    score: 10
+  - author: theaterofchaos  
+    score: 8  
+---
+
+<span>Manche après manche, votre ville s'agrandit d'un bâtiment qui vous apporte des revenus et de précieux points de victoire. Particularité: les cartes sont à la fois des bâtiments et votre moyen de paiement. Seule la meilleure stratégie vous permettra de devenir le citoyen le plus prestigieux de The City.</span>
+
+### Sure Fairy
+
+![The City](/assets/img/thecity_winning.jpeg)
+
+### Theater Of Chaos
+
+The City est un jeu de cartes simple et bien efficace. Le jeu se joue en simultané, à chaque tour de jeu, tous les joueurs sélectionnent un bâtiment de leur main et paient son coût de construction avec d'autres cartes en leur possession. A la fin du tour, tous les joueurs déterminent leur revenu (nombre de carte piochée) ainsi que le nombre de point de victoire engrangé. La partie s'arrête dès qu'un joueur a atteint ou dépassé 50 points de victoire, en cas d'égalité celui avec le plus de cartes restantes en main est déclaré vainqueur.
+
+The City est bien évidemment le **petit frère de Race For The Galaxy** du même auteur. C'est un jeu **opportuniste** ou votre main de départ va vous proposez l'un des **nombreux axes stratégiques** à exploiter. En effet, certaines cartes combottent mieux ensemble (réduction de coût de construction, génération de revenu/de point de victoire en fonction des types de cartes préalablement construit, ...).
+Il s'agit donc d'identifier un moteur de revenu et à point de victoire en fonction des cartes de sa main.
+
+En conclusion, c'est un excellent petit jeu qui **s'emporte vraiment partout**. Le seul bémol est l'utilisation d'une feuille de papier pour suivre l'évolution des scores de chacun en cours de partie. Ceci dit, quelques dès permettront de remplacer le crayon et le papier. Le hasard est présent mais ne dérange absolument pas tant les **parties** sont **courtes** (20 min maximum) et l'appel de la revanche s'en fera d'ailleurs ressentir.
