@@ -17,8 +17,8 @@ layout: default
       </div>
       <div class="card-header">
         <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span>&rsaquo;</span></a>
-        <span class="card-details">{{ post.date | date: "%d/%m/%Y" }}</span>
-        <span class="card-details">Moyenne:
+        <span class="card-date">{{ post.date | date: "%d/%m/%Y" }}</span>
+        <span class="card-average">Note:
             {% assign sum = 0.0%}
             {% for score in post.scores%}
               {% assign sum = {{sum | plus: score.score}}%}

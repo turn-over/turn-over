@@ -74,8 +74,13 @@
     font-weight: bold;
     line-height: 1.5em;
     padding: ($base-spacing / 3) ($base-spacing / 2);
-    .card-details{
-      padding-left : 30px;
+    .card-date{
+      padding-left : 20px;
+      font-style: italic;
+      font-size:0.8em;
+    }
+    .card-average{
+      padding-left: 10px;
       font-style: italic;
       font-size:0.8em;
     }
