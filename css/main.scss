@@ -868,6 +868,22 @@ article.type-system-traditional {
   display: none;
 }
 
+@mixin dropcap($drop-lines, $drop-line-height) {
+  $drop-size : $drop-line-height * $drop-lines;
+  &::first-letter {
+    text-transform: uppercase;
+    font-size: #{$drop-size+'em'};
+    vertical-align: bottom;
+    float: left;
+    /* need a mathy way to fix this */
+    /* the line heights are tricky */
+    line-height: 0.9;
+    margin-right: 0.1em;
+    margin-left: -0.05em;
+    margin-top: -0.05em;
+  }
+}
+
 .scroll-on-page {
   $base-line-height: 1.5em !default;
   $base-spacing: 1.5em !default;
@@ -906,10 +922,16 @@ article.type-system-traditional {
       margin: 0 0 0.5em 0;
     }
 
+    .post-content > p {
+      @include dropcap(2, $base-line-height);
+    }
+
     p {
       color: $base-font-color;
       line-height: $base-line-height;
+
     }
+
 
     section p:last-of-type {
       margin-bottom: 2em;
