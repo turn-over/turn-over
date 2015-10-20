@@ -14,6 +14,8 @@ year: 2015
 scores:
   - author: chaalia
     score: 9
+  - author: oheaterofthought
+    score: 8
 ---
 
 <span>Vous étiez encore jeune lorsque vous avez découvert la vérité sur votre monde. Vous étiez convaincu que votre société était une utopie – le mot « dystopie » ne faisant même pas partie de votre vocabulaire, ni même de votre dictionnaire ! En apprenant la vérité, vous avez dû faire un choix : fuir ou rester pour laisser votre empreinte sur ce monde.</span>
@@ -39,3 +41,21 @@ Le vainqueur sera celui qui aura en premier placé ses 10 marqueurs d’autorit�
 
 Ce jeu est vraiment splendide, que ce soit par son matériel abondant, coloré, joliment illustré en cohérence avec le thème, ou bien par sa mécanique de jeu assez fluide et également par l’interaction entre les joueurs.
 Même si il est jouable à partir de 2, c’est à partir de 3 joueurs que certaines subtilités se révèlent car des alliances entre joueurs sont possibles, notamment lors de la création de marché afin de créer des malus pour les joueurs non impliqués… Même si la victoire n’appartient qu’à un seul joueur, il n’est pas très bon de vouloir se la jouer trop solo, sauf si vous vous fichez des foudres et contre-attaque des autres joueurs, à bon entendeur!
+
+### TheaterOfThought
+
+Euphoria est un excellent jeu de pose d'ouvrier dans un format relativement court!
+
+Au delà, d'une gestion et conversion de ressources assez classique, les marchés et les sanctions envers les joueurs pimentent le jeu.
+Au menu, des alliances, des revanches, beaucoup d'échange entre les joueurs concernant la construction de ces fameux marchés.
+
+La lucidité crée une dynamique unique dans ce jeu autour de la pose des ouvrier. En effet, on peut obliger un adversaire à relancer un dé et potentiellement lui faire perdre un ouvrier.
+
+Le jeu peut donc être très méchant avec un soupçon de hasard. Heureusement, le jeu ne s'éternise pas et on sent une bonne accélération vers la fin.
+
+Même si les cartes spécialistes orientent la stratégie générale d'un joueur, il faudra malgré tout rester un peu à l'écoute de ce que font les autres joueurs et parfois re-planifier ses actions en conséquence.
+
+Il semble effectivement que 3 joueurs soient le minimum si l'on veut se marcher un peu dessus et profiter des interactions possibles entre joueur.
+Néanmoins, très agréable à deux joueurs mais un peu plus froid.
+
+Et enfin ce qui ne gache rien: le matériel est très agréable à regarder.
