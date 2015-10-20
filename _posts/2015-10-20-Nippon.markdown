@@ -51,7 +51,7 @@ l'histoire du Japon, alors qu'une nouvelle grande nation s'éveille.
 ### Theater Of Chaos
 
 L'année dernière, What's Your Game avait déjà placé la barre haut avec l'excellent Zanghuo.
-Cette année, ils récidivent avec Nippon qui est l'une des dernières sortie de What's Your Game (l'autre étant Signorie dont on vous parlera d'ici peu ;)).
+Cette année, ils récidivent avec Nippon qui est l'une des dernières sorties de What's Your Game (l'autre étant Signorie dont on vous parlera d'ici peu ;)).
 
 Après l'avoir essayé à Essen, nous avons entamé une nouvelle partie le soir même à l'hôtel, tout le monde à Turn Over avait un petit goût de trop peu.
 
@@ -59,7 +59,7 @@ Et quel jeu! Voila ce que j'appelle un jeu élégant: un jeu simple mais complex
 
 Mécaniquement c'est fluide et bigrement intelligent!
 
-Dans Nippon, comme vous l'aurez peut être compris, on controlle notre Zaibatsu et l'on cherche à avoir le plus d'influence sur le marché japonnais.
+Dans Nippon, comme vous l'aurez peut être compris, on contrôle notre Zaibatsu et l'on cherche à avoir le plus d'influence sur le marché japonais.
 Le seul bémol de ce jeu est donc le thème, vraiment pas très sexy à mon goût.
 
 On récupère des ouvriers pour réaliser des actions plutôt que de les placer, on ne peut en récupérer plus de 6.
@@ -69,7 +69,7 @@ A son tour:
 - soit on prend un ouvrier du plateau de jeu et on réalise l'action
 - soit on consolide c'est à dire on paye ses ouvriers et on recoit ses revenus
 
-A chaque fois que l'on réalise une action, l'ouvrier vient rejoindre notre réserve personnel. Lors de la consolidation, on paie 3000 yens par couleur d'ouvrier différente présente sur notre plateau après s'être défausser de notre budget inutilisé (constitué de charbon et de yen). Plus on utilise d'ouvrier et plus on pourra se saisir d'un marqueur multiplicateur important qui pourra être positionné sur les objectifs que l'on souhaite remplir lors de la partie.
+A chaque fois que l'on réalise une action, l'ouvrier vient rejoindre notre réserve personnelle. Lors de la consolidation, on paie 3000 yens par couleur d'ouvrier différente présente sur notre plateau après s'être défaussé de notre budget inutilisé (constitué de charbon et de yen). Plus on utilise d'ouvrier et plus on pourra se saisir d'un marqueur multiplicateur important qui pourra être positionné sur les objectifs que l'on souhaite remplir lors de la partie.
 
 La consolidation est aussi le moment de récupérer ses revenus en Yen et charbon comme indiqué par les deux échelles de revenus présentes sur notre plateau individuel.
 
@@ -81,4 +81,4 @@ Trois décomptes auront lieu concernant les majorités en terme d'influence sur 
 
 ![Nippon](/assets/img/nippon-region.jpeg)
 
-Afin de se positioner, il faudra construire des industries, diversifier sa production de manière à être toujours plus influent.
+Afin de se positionner, il faudra construire des industries, diversifier sa production de manière à être toujours plus influent.
