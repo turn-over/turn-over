@@ -12,8 +12,6 @@ designers: Benoit Vogt
 editors: Play & Win
 year: 2012
 scores:
-  - author: krazymins
-    score:
   - author: theaterofchaos  
     score: 4
 ---
@@ -36,10 +34,6 @@ Vous êtes un tacticien aguerri, formé à l’Art de la Guerre. Votre stratégi
 votre renommée. Votre Légende s’écrira sur le Champ de Bataille par le fracas des armes
 et sera portée par les cris d’agonie de vos adversaires. Vous triompherez aisément… à
 moins que vous ne croisiez un jour le chemin d’un guerrier de votre trempe…</span>
-
-### Krazymins
-
-
 
 ### Theater Of Chaos
 
