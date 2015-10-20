@@ -37,7 +37,7 @@ moins que vous ne croisiez un jour le chemin d’un guerrier de votre trempe…<
 
 ### Theater Of Chaos
 
-Mythic Batlles est jeu d’affrontement de type wargame. Les joueurs incarnent un général de l’armée d’Athena ou de l’armée d’Hades. Le jeu se joue à peu près de la même manière que Mémoire 44.
+Mythic Batlles est un jeu d’affrontement de type wargame. Les joueurs incarnent un général de l’armée d’Athena ou de l’armée d’Hades. Le jeu se joue à peu près de la même manière que Mémoire 44.
 
 A votre tour, vous jouerez des cartes de votre main pour pouvoir activer les unités sur le plateau de jeu. Le plateau est modulable et propose différent type de terrain altérant le déplacement, la défense, l’attaque des unités. Le système d’attaque est basé sur des jets de dés, un seul dé doit atteindre la valeur de défense d’une unité attaquée afin de faire une touche. La mécanique employée afin de tenter de « diminuer » le hasard consiste à défausser un dé afin d’augmenter la valeur d’un autre dé. Les dés ayant atteint la valeur 5 peuvent être relancé afin d’en augmenter la valeur avec le nouveau résultat obtenu. (un 5 relancé en 2 donne comme valeur finale 7)
 
