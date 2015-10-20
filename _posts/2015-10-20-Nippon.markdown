@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Nippon"
+date:   2015-10-20 14:26:45
+img: /assets/img/nippon
+categories: Experts
+tags: Economie, Ouvriers
+players: 2-4
+age: 12+
+length: 60 - 120 min
+designers: Paulo Soledade & Nuno Bizarro Sentieiro
+editors: What's Your Game
+year: 2015
+scores:
+  - author: theaterofchaos  
+    score: 9
+---
+
+<span>Le Japon, au cours de la période Meiji - un pays fermé, isolé et
+féodal -décida de devenir un état moderne occidentalisé. L'empire
+envoya des émissaires vers des nations étrangères, rapportant
+techniciens et érudits de l'ouest, construisit un réseau ferré et
+acheva une révolution industrielle remarquablement rapide.
+La nation et l'Empereur comptèrent sur le support des Quatre
+Grands, les grands conglomérats émergeant disposant d'un grand
+pouvoir et d'un contrôle massif sur l'économie japonaise. Ils
+étaient appelés Zaibatsu et leur influence sur l'Empereur Meiji et
+leur importance sur le destin du Japon furent très important.
+Dans Nippon, les joueurs controllent leur Zaibatsu et tentent de
+développer leur réseau de pouvoir en investissant dans de
+nouvelles industries, en améliorant leur connaissance en
+technologie, en livrant des biens à l'étranger ou en les utilisant
+pour satisfaire les besoins locaux, agrandissant leur pouvoir et leur
+influence en supervisant l'ére d'industrialisation du Japon.
+Les fondations des Zaibatsu furent les tradtionnelles échoppes de
+soie, mais les conglomérats diversifièrent rapidement leur
+influence et pouvoir, en édifiant une structure de sociétés
+interconnectées, faisant d'eux des acteurs géants de la nouvelle ère
+industrielle mondiale. Chaque joueur prend les rennes d'une de
+ces grandes corporation et tente de la développer afin d'agrandir et
+exercer leur pouvoir.
+Pour remporter la partie, les joueurs doivent soigneusement choisir
+dans quels types d'industries ils doivent investir pour obtenir le
+plus d'influence sur les îles japonaises. Chaque action est prise
+dans le but de tracer leur chemin vers de nouvelles opportunités.
+Nippon est un jeu économique au rythme rapide proposant des
+décisions difficiles, ayant pour cadre un moment important de
+l'histoire du Japon, alors qu'une nouvelle grande nation s'éveille.
+</span>
+
+### Theater Of Chaos
+
+L'année dernière, What's Your Game avait déjà placé la barre haut avec l'excellent Zanghuo.
+Cette année, ils récidivent avec Nippon qui est l'une des dernières sortie de What's Your Game (l'autre étant Signorie dont on vous parlera d'ici peu ;)).
+
+Après l'avoir essayé à Essen, nous avons entamé une nouvelle partie le soir même à l'hôtel, tout le monde à Turn Over avait un petit goût de trop peu.
+
+Et quel jeu! Voila ce que j'appelle un jeu élégant: un jeu simple mais complexe avec une vraie profondeur.
+
+Mécaniquement c'est fluide et bigrement intelligent!
+
+Dans Nippon, comme vous l'aurez peut être compris, on controlle notre Zaibatsu et l'on cherche à avoir le plus d'influence sur le marché japonnais.
+Le seul bémol de ce jeu est donc le thème, vraiment pas très sexy à mon goût.
+
+On récupère des ouvriers pour réaliser des actions plutôt que de les placer, on ne peut en récupérer plus de 6.
+
+A son tour:
+
+- soit on prend un ouvrier du plateau de jeu et on réalise l'action
+- soit on consolide c'est à dire on paye ses ouvriers et on recoit ses revenus
+
+A chaque fois que l'on réalise une action, l'ouvrier vient rejoindre notre réserve personnel. Lors de la consolidation, on paie 3000 yens par couleur d'ouvrier différente présente sur notre plateau après s'être défausser de notre budget inutilisé (constitué de charbon et de yen). Plus on utilise d'ouvrier et plus on pourra se saisir d'un marqueur multiplicateur important qui pourra être positionné sur les objectifs que l'on souhaite remplir lors de la partie.
+
+La consolidation est aussi le moment de récupérer ses revenus en Yen et charbon comme indiqué par les deux échelles de revenus présentes sur notre plateau individuel.
+
+![Nippon](/assets/img/nippon-individual-board.jpeg)
+
+Il s'agit clairement d'un jeu ou chacun doit se définir des objectifs et suivre sa stratégie tout au long de la partie malgré tout.
+
+Trois décomptes auront lieu concernant les majorités en terme d'influence sur chacune des différentes régions du Japon avant le décompte final. Celui-ci prends en compte les objectifs que chaque joueur s'est fixé car je le rappelle: on construit ce sur quoi on va scorer en fin de partie.
+
+![Nippon](/assets/img/nippon-region.jpeg)
+
+Afin de se positioner, il faudra construire des industries, diversifier sa production de manière à être toujours plus influent.
