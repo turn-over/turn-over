@@ -64,6 +64,8 @@ Mythic Battles.... critique coup de gueule !
 Ce jeu avait tout pour être un grand malheureusement... on passe à côté. Si vous aimez **Magic**, les **Wargames** et les **Jeux d'echecs**, Mythic battles était fait pour vous.
 Mais si vous aimez **Risk** et le destin de votre armée entre les mains de vos lancés de dés, alors Mythic Battles EST fait pour vous !
 
+![MythicBattles](/assets/img/mythicbattles_game4.jpg)
+
 - **Le principe**:
 
 A Magic vous avez des scores attaque/défense, des effets de carte, des artifacts et des terrains à placer qui symbolisent le coût de vos cartes créatures.
