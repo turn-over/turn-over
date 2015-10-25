@@ -82,7 +82,7 @@ Un livret de scénarii est fourni proposant des objectifs et des decks déjà pr
 
 La grande force de Mythic Battles est que contrairement à Magic, vous n'avez pas besoin de racheter des cartes sans arrêt. Tout est prévu dans la boîte de base. L'avantage est qu'au bout de quelques parties, vous connaissez les caractéristiques des cartes adverses, sans avoir besoin de les étudier... 2 extensions existent, mais qui ne remettent pas en cause/question les principes du jeu.
 
-De plus les **dessins sur les cartes** sont tout simplement **magnifiques**, les **terrains** sont assez **jolis** également, **quoique assez ternes**.
+De plus les **illustrations sur les cartes** sont tout simplement **magnifiques**, les **terrains** sont assez **jolis** également, **quoique assez ternes**.
 
 Les règles ne sont pas compliquées en soit, mais elles sont nombreuses et le jeu demande donc plusieurs parties avant de pouvoir maîtriser l'entièreté des possibilités.
 
