@@ -90,7 +90,7 @@ Non... vraiment.. **Mythic Battles avait tout d'un grand jeu !**
 
 - **Vous ne m'aurez pas !**
 
-.. Et oui c'est compter l'usage des **dés** !
+.. Et oui c'est sans compter l'usage des **dés** !
 Quelle **frustration** pendant la partie !
 Je m'explique : vous venez de faire une super stratégie, de bouger vos troupes, de vous creuser la cervelle pour pouvoir éclater la gu.. caresser la joue de votre adversaire dans un combat sanglant pour finalement perdre (ou gagner) aux dés..
 
