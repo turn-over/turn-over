@@ -61,7 +61,7 @@ Une nouvelle version sur Kickstarter verra le jour avec des figurines : tant mie
 
 Mythic Battles.... critique coup de gueule !
 
-Ce jeu avait tout pour être un grand malheureusement... on passe à côté. Si vous aimez **Magic**, les **Wargames** et les **Jeux d'echecs**, Mythic battles était fait pour vous.
+Ce jeu avait tout pour être un grand malheureusement... on passe à côté. Si vous aimez **Magic**, les **Wargames** et les **Jeux d'echecs**, Mythic battles ETAIT fait pour vous.
 Mais si vous aimez **Risk** et le destin de votre armée entre les mains de vos lancés de dés, alors Mythic Battles EST fait pour vous !
 
 ![MythicBattles](/assets/img/mythicbattles_game4.jpg)
