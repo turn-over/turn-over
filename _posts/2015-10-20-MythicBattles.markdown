@@ -69,16 +69,16 @@ Mais si vous aimez **Risk** et le destin de votre armée entre les mains de vos 
 - **Le principe**:
 
 A Magic vous avez des scores attaque/défense, des effets de carte, des artifacts et des terrains à placer qui symbolisent le coût de vos cartes créatures.
-A Mythic Battles, vous avez des points d'attaque au corps à corps (puissance), des points d'attaque à distance (puissance, portée), une capacité au déplacement, des points de vitalité, des points de défense, des talents (actions ou capacités spécifiques), un nombre de points de régénération, une valeur spécifique à la carte...
-Des cartes "manoeuvres" spéciales permettent de compléxifier le tout : vous pouvez grâce à ses cartes retourner dans votre pioche, utiliser plus de cartes pendant votre tour etc ...
+A Mythic Battles, vous avez des points d'attaque au **corps à corps** (puissance), des points d'attaque à **distance** (puissance, portée), une capacité au **déplacement**, des points de **vitalité**, des points de **défense**, des **talents** (actions ou capacités spécifiques), un nombre de points de **régénération**, une **valeur spécifique à la carte**...
+Des cartes **"manoeuvres"** spéciales permettent de compléxifier le tout : vous pouvez grâce à ses cartes retourner dans votre pioche, utiliser plus de cartes pendant votre tour etc ...
 
-De plus, ajoutez à cela un terrain évolutif (les tuiles sont interchangeables), sur lesquelles on place des jetons unités représentants les cartes. Les terrains ont des spécificités qui influent sur les cartes : en fonction du type de terrain, la puissance des cartes varient. Par exemple, dans une forêt, vous gagnez +1 en défense contre les unités volantes (oui, il y a les unités volantes, et terrestres...) et -1 en déplacement...(*"Limpide ma chère Clothilde!""*). Quelques règles supplémentaires viennent pimenter le combat : substitution, harcèlement, contre-attaque...
+De plus, ajoutez à cela un **terrain évolutif** (les tuiles sont interchangeables), sur lesquelles on place des jetons unités représentants les cartes. Les terrains ont des spécificités qui influent sur les cartes : en fonction du type de terrain, la puissance des cartes varient. Par exemple, dans une forêt, vous gagnez +1 en défense contre les unités volantes (oui, il y a les **unités volantes**, et **terrestres**...) et -1 en déplacement...(*"Limpide ma chère Clothilde!""*). Quelques règles supplémentaires viennent pimenter le combat : **substitution**, **harcèlement**, **contre-attaque**...
 
 Bref, il y a de quoi faire au niveau des règles. (*"Tu m'étonnes John !"*).
 
-Le principe est d'incarner une armée au choix (celle d'Hadès, ou celle d'Athéna) et de vaincre l'armée adverse.
+Le principe est d'incarner une armée au choix (celle d'**Hadès**, ou celle d'**Athéna**) et de vaincre l'armée adverse.
 On constitue son deck suivant un budget maximum à dépenser. Ca c'est pour le scénario de base.
-Un livret de scénarii est fourni proposant des objectifs et des decks déjà préconstruits. La très bonne idée est que les scénarii sont progressifs, et on apprend au fur et à mesure à utiliser les règles.
+Un livret de scénarii est fourni proposant des objectifs et des decks déjà préconstruits. La très bonne idée est que **les scénarii sont progressifs**, et on apprend au fur et à mesure à utiliser les règles.
 
 La grande force de Mythic Battles est que contrairement à Magic, vous n'avez pas besoin de racheter des cartes sans arrêt. Tout est prévu dans la boîte de base. L'avantage est qu'au bout de quelques parties, vous connaissez les caractéristiques des cartes adverses, sans avoir besoin de les étudier... 2 extensions existent, mais qui ne remettent pas en cause/question les principes du jeu.
 
@@ -96,13 +96,13 @@ Je m'explique : vous venez de faire une super stratégie, de bouger vos troupes,
 
 Qu'on ne s'y laisse pas prendre, Mythic Battles offre *officiellement* une gestion de dés 'intelligente'. C'est à dire que pour un lancé, vous pouvez choisir d'écarter certains dés pour augmenter d'autres dés.. Ca c'est sur le papier. (*"C'est dommage ma bonne dame, ça partait d'un bon sentiment"*). Dans la réalité c'est tout autre : il n'y a qu'une seule façon de réussir aux dés. En d'autres termes, soit on a compris les règles de dés, et on fait la meilleure (seule) combinaison possible, soit on a pas compris, et là effectivement on peut se dire que la gestion de dés est intelligente. Comme il est extrêmement difficile de se tromper, finalement les combats se résument à un lancé de dés. La gestion intelligente n'est que de la poudre aux yeux..
 
-De plus, Mythic Battles est un jeu de figurines .. sans figurines. Idée originale mais ô combien triste. Et oui ! les jetons sont difficiles à différencier sur le plateau. Un effort a été apporté par les extensions (bord des jetons colorés différement) mais rien ne vient réellement arranger ce problème.
+De plus, Mythic Battles est un jeu de figurines .. sans figurines. Idée originale mais ô combien triste. Et oui ! **les jetons sont difficiles à différencier** sur le plateau. Un effort a été apporté par les extensions (bord des jetons colorés différement) mais rien ne vient réellement arranger ce problème.
 
 La boîte annonce 45 minutes de jeu... Même en faisant le plus vite possible, nous n'avons pas réussi à faire une partie en moins de 1h30 soit le double du temps imparti...Nous avons un tant soit peu tenté d'établir des stratégies etc.. peut-être était-ce là notre tort. Mais alors à quoi servent toutes ces règles ? Devrions-nous foncer tête baissée (*"Là mon gars tu as fait le cochon!"*) et faire confiance aux dés ?
 
 Plutôt amateurs de jeu de pose d'ouvriers, nous sommes peut-être passés à côté de Mythic Battles, pourtant toute la meilleure volonté du monde y a été mise.
 
 
-C'est donc un **jeu à double tranchant** : il a tout pour faire un **très bon wargame** stratégique **en théorie**, **en pratique** le jeu se résume à s'en remettre aux **dés**. Mythic Battles a donc les composantes d'un jeu à la fois simple et sans intérêt, mais en même temps stratégique et complexe.
+C'est donc un **jeu à double tranchant** : il a tout pour faire un **très bon wargame** stratégique **en théorie**, mais **en pratique** le jeu se résume à s'en remettre aux **dés**. Mythic Battles a donc les composantes d'un jeu à la fois simple et sans intérêt, mais en même temps stratégique et complexe.
 
 Une nouvelle version du jeu ressortira en 2016, reste à savoir de quel côté cette réédition va pencher ...
