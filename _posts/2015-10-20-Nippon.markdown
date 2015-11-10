@@ -14,6 +14,8 @@ year: 2015
 scores:
   - author: theaterofchaos  
     score: 9
+  - author: krazymins  
+    score: 9
 ---
 
 <span>Le Japon, au cours de la période Meiji - un pays fermé, isolé et
@@ -82,3 +84,46 @@ Trois décomptes auront lieu concernant les majorités en terme d'influence sur 
 ![Nippon](/assets/img/nippon-region.jpeg)
 
 Afin de se positionner, il faudra construire des industries, diversifier sa production de manière à être toujours plus influent.
+
+### Krazymins
+
+Nippon ni mauv... non... juste **très bon** !
+
+Après Zanghuo sorti en 2014, nous restons sur le continent asiatique pour cette fois-ci s'attaquer à Nippon, le dernier chef-d'oeuvre de l'écurie "What's Your Game?".
+
+Nippon peut suffir à lui seul en une soirée, une partie se termine et hop, on en redemande (*"Qui reveut du Nippooon ? Moi! moi! moi! moi!"*).
+
+Nippon, c'est du lourd, du **costaud**, du **sérieux**, mais du **suspens**, de l'**optimisation**, de la cogitation et des **palpitations**.
+
+Ayant testé les parties pour 2 et 4 joueurs, il est agréable de voir que Nippon est tout aussi intéressant dans une version que dans l'autre. Le petit bijou est en effet **bien équilibré**.
+
+Soyons bref : L'idée est de se faire une place sur le marché japonais en incarnant un conglomérat.
+(*"Pas très sexy ta mise en bouche..."*). Il est vrai, le thème ne fait pas vibrer en soi. Mais vulgarisons la chose :  pour avoir de l'influence, il faut produire, pour produire, il faut des machines, pour avoir des machines, il faut des fabriques, pour avoir des fabriques, il faut de la compétence, de l'argent, et du charbon .. pour pouvoir fabriquer, il faut des ouvriers ... on y est !
+Nippon est **un jeu de pose d'ouvriers**, et pour le coup, ce sont vraiment des ouvriers que l'on utilise dans une chaîne de fabrication.
+
+A chaque tour de jeu, on a deux types de manoeuvre :
+
+- **soit on "consolide" ses ouvriers**, auquel cas on se sépare de tous ses ouvriers en jeu, on récupère les bonii associés ainsi que quelques billets ..
+
+- **soit on utilise ses ouvriers** pour ce à quoi ils sont destinés : construire une fabrique, produire etc ... On peut également pourvoir ses fabriques en accès aux trains et aux bateaux, diversifier ses productions ... Tout se tient.
+
+Dans Nippon il n'y a pas une seule stratégie, il y en a plusieurs.
+Nippon est un jeu de programmation où un coup fourré s'étalle sur plusieurs tours. Ainsi, on peut suivre plusieurs stratégies mais on ne peut pas les suivre toutes à la fois.
+En fonction des récompenses obtenues durant la partie, on peut choisir des coefficients multiplicateurs sur tel ou tel élément. Il faut donc choisir sur quelle stratégie on part (trains, bateaux, compétence, fabriques etc.. ) et s'y tenir jusqu'en fin de partie.
+
+On gagne des points de victoire en cours de jeu mais également durant le décompte final.
+
+Le grand point positif est que l'implantation sur le marché existant ne se fait pas d'un claquement de doigts : le marche existant porte bien son nom.. il est existant ! (*"Bien vu Lulu !"*).
+C'est à dire que vous pouvez arriver le premier avec vos points d'influence sur le marché, vous n'êtes pas pour autant le winner : c'est sans compter avec les points déjà en place. De plus le Japon n'est pas très grand, il va falloir jouer des coudes avec vos adversaires!
+
+Nippon est illustré par Mariano Iannelli, un designer classique chez 'What's Your Game?', offrant un **jeu beau** (on aime ou pas) et coloré.
+
+![Nippon](/assets/img/nippon_game2.jpg)
+
+C'est un jeu finalement très paradoxal : très costaud, il se digère pourtant très bien. (*"Comme une bonne bouteille, tu peux en boire une grande quantité, tu n'auras pas de gueule de bois le lendemain"*).
+Pour ma part j'ai du mal à classifier sa difficulté : **les règles le classent comme costaud à n'en pas douter, mais la mécanique est tellement bien huilée, qu'on ne ressent justement pas cette lourdeur**.
+Selon moi, un tel sentiment est synonyme de "**excellent jeu**" !
+
+Les amatteurs de gourmandise en auront pour leurs papilles !
+
+![Nippon](/assets/img/nippon_essen.jpg)
