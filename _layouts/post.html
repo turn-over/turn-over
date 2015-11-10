@@ -90,7 +90,7 @@ $(function() {
   $('#{{site.data.authors[score.author].name | downcase | replace:' ','-'}}_score').barrating({
      theme: 'fontawesome-stars',
      readonly: true,
-     initialRating: {{score.score}}
+     initialRating: Math.round({{score.score}})
    });
 
    {% endfor %}

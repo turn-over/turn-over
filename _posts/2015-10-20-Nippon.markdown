@@ -13,7 +13,7 @@ editors: What's Your Game
 year: 2015
 scores:
   - author: theaterofchaos  
-    score: 9
+    score: 8.3
   - author: krazymins  
     score: 9
 ---
