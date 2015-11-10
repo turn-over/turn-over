@@ -161,7 +161,7 @@ var CommentForm = React.createClass({
     return (
      <form className="commentForm" onSubmit={this.handleSubmit}>
        <input type="text" placeholder="Nom" ref="author" required />
-       <input type="email" placeholder="email" ref="email" required/>
+       <input type="email" placeholder="Email" ref="email" required/>
        <textarea id="comment" placeholder="Commentaire" name="comment" cols="45" rows="8" aria-required="true" ref="text" required></textarea>
        <input type="submit" value="Laisser un commentaire" />
      </form>
