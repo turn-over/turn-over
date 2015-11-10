@@ -37,6 +37,7 @@ layout: default
 
     {{ content }}
     </div>
+    <div id="comments"></div>
     <a class="scroll-on-page-link" href="#cover">Revenir au début</a>
 
   <img src="{{ page.img }}.jpeg" alt="">
@@ -96,4 +97,8 @@ $(function() {
 });
 
 
+</script>
+
+<script type="text/javascript">
+  TurnOver.showComments('{{page.title}}');
 </script>

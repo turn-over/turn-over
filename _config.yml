@@ -9,3 +9,4 @@ github_username:  jekyll
 paginate: 4
 # Build settings
 markdown: kramdown
+exclude: [node_modules]
