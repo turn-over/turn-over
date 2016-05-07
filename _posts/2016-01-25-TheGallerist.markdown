@@ -3,7 +3,7 @@ layout: post
 title:  "The Gallerist"
 date:   2016-01-25 22:30:00
 img: /assets/img/thegallerist
-categories: Expert
+categories: Experts
 tags: Ouvriers
 players: 1-4
 age: 13+
