@@ -30,10 +30,15 @@ Le thème est tellement présent que les règles coulent malgré tout de source.
 
 Dans The Gallerist, vous **incarnez le directeur d'une galerie d'art**.
 A chaque tour vous avez le choix entre différents types d'actions principales:
+
 - Les actions concernant les artistes : on peut découvrir un nouvel artiste ou bien se procurer une oeuvre.
+
 - Les actions concernant les contrats : on peut choisir un contrat pour plus tard vendre une de ses oeuvres.
+
 - Les actions concernant la renommée à l'étranger : permet de se positionner pour la dernière enchère finale.
+
 - Les actions concernant sa propre gallerie : gagner/perdre de l'influence ou recruter des assistants ...
+
 Suite à cela, des actions facultatives sont possibles à savoir utiliser ses assistants (oui parce qu'on a des assistants) pour effectuer quelques basses besognes mais ô combien utiles ..  
 
 Ce (très) condensé de règles donne le LA en matière des choix qui s'offrent à nous.
