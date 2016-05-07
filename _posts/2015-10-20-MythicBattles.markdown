@@ -66,7 +66,7 @@ Mais si vous aimez **Risk** et le destin de votre armée entre les mains de vos 
 
 ![MythicBattles](/assets/img/mythicbattles_game4.jpg)
 
-- **Le principe**:
+**LE PRINCIPE** :
 
 A Magic vous avez des scores attaque/défense, des effets de carte, des artifacts et des terrains à placer qui symbolisent le coût de vos cartes créatures.
 A Mythic Battles, vous avez des points d'attaque au **corps à corps** (puissance), des points d'attaque à **distance** (puissance, portée), une capacité au **déplacement**, des points de **vitalité**, des points de **défense**, des **talents** (actions ou capacités spécifiques), un nombre de points de **régénération**, une **valeur spécifique à la carte**...
@@ -88,9 +88,9 @@ Les règles ne sont pas compliquées en soit, mais elles sont nombreuses et le j
 
 Non... vraiment.. **Mythic Battles avait tout d'un grand jeu !**
 
-- **Vous ne m'aurez pas !**
+**VOUS NE M'AUREZ PAS !** :
 
-.. Et oui c'est sans compter l'usage des **dés** !
+Et oui c'est sans compter l'usage des **dés** !
 Quelle **frustration** pendant la partie !
 Je m'explique : vous venez de faire une super stratégie, de bouger vos troupes, de vous creuser la cervelle pour pouvoir éclater la gu.. caresser la joue de votre adversaire dans un combat sanglant pour finalement perdre (ou gagner) aux dés..
 
